@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Machine Learning"
         desc: "Research on computational approaches to learning."
-        icon: /assets/img/icons/machine-learning.png
+        icon: /assets/img/machine-learning.png
       - title: "Cyber Security"
         desc: "Practical Security. Practices for defending information systems."
-        icon: /assets/img/icons/cyber-security.png
+        icon: /assets/img/cyber-security.png
       - title: "Cyber Analytics"
         desc: "Тhe use of algorithms, statistical analysis, behavioral analytics, machine learning, and other classes of analysis to solve cybersecurity problems."
-        icon: /assets/img/icons/cyber-analytics.png
+        icon: /assets/img/cyber-analytics.png
 
   about:
     title: "About Us"
